@@ -1,7 +1,7 @@
 {
   "name": "playwright-automation-assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright automation framework for SauceDemo checkout workflow",
   "main": "index.js",
   "scripts": {
   "test": "playwright test",
@@ -9,7 +9,7 @@
   "report": "playwright show-report"
   },
   "keywords": [],
-  "author": "",
+  "author": "Bharath A.G",
   "license": "ISC",
   "type": "module",
   "devDependencies": {

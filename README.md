@@ -42,7 +42,7 @@ playwright-automation-assignment/
 
 ## Prerequisites
 
-- Node.js
+- Node.js 18 or later
 - npm
 
 ## Setup
